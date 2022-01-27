@@ -2,15 +2,14 @@
 
 A new Flutter project.
 
-## Getting Started
+First Screen
+![image](https://user-images.githubusercontent.com/97513422/151318086-2d70a260-dbc5-42e1-874b-8c9a48686213.png)
 
-This project is a starting point for a Flutter application.
+Food List Screen
+![image](https://user-images.githubusercontent.com/97513422/151318469-1b19c1a1-bc0e-4031-96fb-2eaa62f5871d.png)
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://user-images.githubusercontent.com/97513422/151318495-11ebea06-a66e-485c-a11d-ed77ed925b5f.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Food Detail Screen
+![image](https://user-images.githubusercontent.com/97513422/151318536-863915eb-537e-4784-a88c-4f47e6b93a66.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
